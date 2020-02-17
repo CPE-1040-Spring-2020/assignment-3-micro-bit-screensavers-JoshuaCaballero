@@ -125,9 +125,10 @@ This assignnment is more involved than the first two, but uses the same basic mi
 ---
 
 ## Screensavers
-
-_TODO: Add your screensaver descriptions!!!_
-
+1. When shaken. The central LED lights up and four lights revolve around the outer edges of the screen. When the lights appear on the corners, the LEDs around the central light lights up.
+2. When the logo above the screen is tilted upwards. The LEDs are activated, column by column, in a wave until all of them are activated. Then the LEDs are deactivated, row by row, in a similar pattern.
+3. When the logo is tilted downwards. A checkerboard pattern appears and fades out. The inverse of the pattern fades in then fades out. Repeat intil timeout.
+4. When the microbit is tilted to the left. A light, starting from a random spot at the top edge of the screen, travels downward on the screen like a raindrop. Another one appears when it reaches the bottom edge.
+5. When the microbit is tilted to the right. The screen is filled, then unfilled, from left to right in a wave similar to a zipper.
 ## Demo video
-
-_TODO: Add your video URL here!!!_
+https://imgur.com/a/kr1IxUg
